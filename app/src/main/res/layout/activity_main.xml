@@ -4,16 +4,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity">
-
+    tools:context=".MainActivity"
+    android:background="@color/black">
     <TextView
-        android:layout_width="match_parent"ma
+        android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:text="BILLIARDS!"
         android:textSize="50sp"
         android:gravity="center"
-        android:textStyle="bold"/>
-
+        android:textStyle="bold"
+        android:textColor="@color/white"/>
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -29,3 +29,4 @@
         tools:layout_editor_absoluteY="459dp"
         android:text="8balls"
         android:textStyle="bold"/>
+

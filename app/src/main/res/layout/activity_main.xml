@@ -7,12 +7,18 @@
     tools:context=".MainActivity">
 
     <TextView
-        android:layout_width="match_parent"
+        android:layout_width="match_parent"ma
         android:layout_height="match_parent"
         android:text="BILLIARDS!"
         android:textSize="50sp"
         android:gravity="center"
         android:textStyle="bold"/>
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="54dp"
+        tools:layout_editor_absoluteY="426d"
+        android:text="9balls"
+        android:textStyle="bold"/>
 
-</androidx.constraintlayout.widget.ConstraintLayout>

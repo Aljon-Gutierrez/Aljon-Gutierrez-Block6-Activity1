@@ -17,8 +17,15 @@
     <Button
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        tools:layout_editor_absoluteX="54dp"
-        tools:layout_editor_absoluteY="426d"
         android:text="9balls"
-        android:textStyle="bold"/>
+        android:textStyle="bold"
+        tools:layout_editor_absoluteX="36dp"
+        tools:layout_editor_absoluteY="404dp" />
 
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="459dp"
+        android:text="8balls"
+        android:textStyle="bold"/>

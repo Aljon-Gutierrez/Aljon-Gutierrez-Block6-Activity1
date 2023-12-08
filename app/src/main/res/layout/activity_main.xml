@@ -11,6 +11,8 @@
         android:layout_height="match_parent"
         android:text="BILLIARDS!"
         android:textSize="50sp"
-        android:gravity="center"/>
+        android:gravity="center"
+        android:textStyle="bold"/>
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>
